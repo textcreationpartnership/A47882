@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Father La Chaise's project for the extirpation of hereticks in a letter from him to Father P---rs.</title>
+            <author>La Chaise, François d'Aix de, 1624-1709.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47882</idno>
+            <idno type="STC">Wing L127</idno>
+            <idno type="STC">ESTC R2268</idno>
+            <idno type="EEBO-CITATION">12576953</idno>
+            <idno type="OCLC">ocm 12576953</idno>
+            <idno type="VID">63629</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63629)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 962:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Father La Chaise's project for the extirpation of hereticks in a letter from him to Father P---rs.</title>
+                  <author>La Chaise, François d'Aix de, 1624-1709.</author>
+                  <author>Petre, Edward, 1631-1699.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Caption title.</note>
+                  <note>Dated: July 8, 1688.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Heresies, Christian --  History --  Modern period, 1500-</term>
+               <term>Dissenters, Religious --  France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:63629:1"/>
+            <pb n="1" facs="tcp:63629:1" rendition="simple:additions"/>
+            <head>Father <hi>La Chaiſe</hi>'s PROJECT FOR THE EXTIRPATION OF HERETICKS.</head>
+            <head>In a Letter from him to Father <hi>P—rs.</hi>
+            </head>
+            <opener>
+               <salute>Worthy Friend,</salute>
+            </opener>
+            <p>I Receiv'd yours of the 20th of <hi>June</hi> laſt, and am very glad to hear of your good Succeſs, and that our Party gains Ground ſo faſt in <hi>England.</hi> But concerning the Queſtion you have put to me, that is, What is the beſt courſe to be taken to Root out all the <hi>Hereticks?</hi> To which, I anſwer: There are divers ways to do that, but we muſt conſi<g ref="char:EOLhyphen"/>der which is the beſt to make uſe of in <hi>England,</hi> I am ſure you are not Ig<g ref="char:EOLhyphen"/>norant how many thouſand <hi>Hereticks</hi> we have in <hi>France,</hi> by the <hi>Power of our Dragoons,</hi> Converted in the ſpace of one year; and by the Doctrine of thoſe <hi>booted Apoſtles,</hi> Turn'd more in one month than <hi>Christ</hi> and his <hi>Apo<g ref="char:EOLhyphen"/>ſtles</hi> could in ten years. This is a moſt Excellent Method, and far excels thoſe of the <hi>great Preachers</hi> and <hi>Teachers,</hi> that have lived ſince <hi>Chriſt</hi>'s time. But I have ſpoke with divers <hi>Fathers of our Society,</hi> who do think that your <hi>King</hi> is not ſtrong enough to accompliſh his Deſign by ſuch kind of force, ſo that we cannot expect to have our Work done in that manner, for the <hi>Hereticks</hi> are too ſtrong in the three Kingdoms, and therefore we muſt ſeek to Convert them by fair means, before we fall upon them with <hi>Fire, Sword, Halters, Gaols,</hi> and other ſuch like Puniſhments: And therefore, I can give you no better Advice than to begin with ſoft eaſie means, wheedle them in by <hi>Promiſes of Profit,</hi> and <hi>Offices of Honour,</hi> till you have
+<pb n="2" facs="tcp:63629:2"/>
+made them <hi>dip</hi> themſelves in Treaſonable Actions, againſt the Laws Eſta<g ref="char:EOLhyphen"/>bliſhed, and then they are bound to ſerve for fear. When they have done thus, turn them out, and ſerve others ſo, by putting them in their Places; and by this way, gain as many as you can. And for the <hi>Hereticks,</hi> that are in Places of Profit and Honour, turn them out, or Suſpend them on pretence of <hi>Misbehaviour,</hi> by which their Places are forfeit, and they ſub<g ref="char:EOLhyphen"/>ject to what Judgment you pleaſe to give upon them. Then you muſt form a <hi>Camp,</hi> that muſt conſiſt of none but <hi>Catholicks,</hi> this will make the <hi>Hereticks</hi> heartleſs, and conclude all means of Relief and Recovery is gone. And laſtly, take the ſhort and the beſt way, which is to ſurprize the <hi>Hereticks</hi> on a ſudden; and to incourage the <hi>Zealous Catholicks,</hi> let them <hi>Sacrifice them all, and waſh their Hands in their Blood,</hi> which will be an acceptable <hi>Offering to God.</hi> And this was the Method I took in <hi>France,</hi> which hath well, you ſee, ſucceeded, but it coſt me many threats and promiſes, be<g ref="char:EOLhyphen"/>for I cou'd bring it thus far, our <hi>King</hi> being a long time very unwilling.</p>
+            <p>But at laſt, I got him on the Hip, for he had <hi>layn</hi> with his <hi>Dnughter-in-Law,</hi> for which I would by no means give him <hi>Abſolution,</hi> till he had gi<g ref="char:EOLhyphen"/>ven me an <hi>Inſtrument,</hi> under his own Hand and Seal, to <hi>Sacrifice</hi> all the <hi>Hereticks</hi> in one day. Now as ſoon as I had my <hi>deſired Commiſſion,</hi> I ap<g ref="char:EOLhyphen"/>pointed the day when this ſhould be done, and in the mean time, made ready ſome thouſands of Letters, to be ſent into all parts of <hi>France</hi> in one Poſt Night. I was never better pleaſed than that time, but the <hi>King</hi> was affected with ſome compaſſion for the <hi>Hugonots,</hi> becauſe they had been a means to bring him to his Crown and Throne; and the longer he was un<g ref="char:EOLhyphen"/>der it the more ſorrowful he was, often complaining, and deſiring me to give him his <hi>Commiſſion</hi> again, but that I would by no perſwaſion do, ad<g ref="char:EOLhyphen"/>viſing him to repent of that heinous ſin; and alſo telling him, that the trouble and horrour of his Spirit did not proceed from any thing of Evil in thoſe things that were to be done, but from that great Wickedneſs which he had done; and that he muſt reſolve to undergo the ſevere burthen of a troubled mind for one of them or the other, and if he would remain ſatis<g ref="char:EOLhyphen"/>fied as it was, his Sin being forgiven, there would, in few days, be a per<g ref="char:EOLhyphen"/>fect attonement made for it, and he perfectly reconciled to God again. But all this would not pacifie him, for the longer the more reſtleſs, and therefore I ordered him to retire to his Cloſet, and there ſpend his time conſtantly in Prayer, without permitting any one to interrupt him; and this was in the morning early, when the evening following I was to ſend away all my Letters. I did indeed make the more haſte, for fear he ſhould diſcloſe it to any body, yet I had given him a ſtrict charge to keep it to himſelf, and the very thing that I moſt feared, to my great ſorrow, came to paſs; for juſt in the nick of time, the <hi>Devil,</hi> who hath always his Inſtruments at work, ſent the <hi>Prince of Conde</hi> to the Court, who asked for the <hi>King;</hi> he was told that he was in his Cloſet, and would ſpeak with no man; he impudently anſwered, <hi>That he muſt, and would ſpeak with him,</hi> and
+<pb n="3" facs="tcp:63629:2"/>
+ſo went directly to his Cloſet; he being a great Peer, no man durſt hinder him. And being come to the <hi>King</hi> he ſoon perceived by his countenance that he was under ſome great trouble of mind, for he looked as if he had been going into the other World immediately. Sir, ſaid he, what is the matter with you? The <hi>King,</hi> at the firſt, refuſed to tell him but he preſſing harder upon him, at laſt, the <hi>King</hi> with a ſorrowful complaint, burſt out, and ſaid, <hi>I have given Father</hi> La Chaiſe <hi>a Commiſſion under my own Hand, to Murder all the Hugonots in one day, and this Evening will the Letters be diſ<g ref="char:EOLhyphen"/>patch'd to all Parts, by the Poſt, for the performing it; ſo that there is but ſmall time left for my Hugonot Subjects to live, who have never done me any harm:</hi> Whereupon this curſed Rogue anſwered, Let him give you your Com<g ref="char:EOLhyphen"/>miſſion again; <hi>The King ſaid, how ſhall I get it out of his hand, for if I ſend to him for it, he will refuſe to ſend it?</hi> This Devil anſwered, <hi>If your Majeſty will give me order, I will quickly make him return it:</hi> The <hi>King</hi> was ſoon perſwaded, being willing to give eaſe to his troubled Spirit, and ſaid, <hi>Well, go then, and break his Neck, if he will not give it you;</hi> whereupon, this Son of the Devil, went to the Poſt-Houſe, and asked if I had not a great number of Letters there, and they ſaid, Yes, more than I had ſent thither in a whole year before; then, ſaid the Prince, <hi>By Order from the King, you muſt deliver them all to me;</hi> which they durſt not deny, for they knew well enough who he was. And no ſooner was he got into the Poſt-Houſe, and had asked theſe Queſtions, but I came alſo in after him, to give order to the Poſt Maſter, to give notice to all thoſe under him, in the ſeveral Parts of the Kingdom, that they ſhould take care to deliver my Letters with all ſpeed imaginable. But I was no ſooner entred the Houſe, but he gave his Servants order to ſecure the Door, and ſaid confidently to me, <hi>You muſt, by order from the King, give me the Commiſſion which you have forced from him:</hi> I told him I had it not about me, but would go and fetch it, thinking to get from him, and ſo go out of Town, and ſend the contents of thoſe Let<g ref="char:EOLhyphen"/>ters another time; but he ſaid, <hi>You muſt give it me, and if you have it not about you, ſend ſome body to fetch it, or elſe never expect to go alive out of my hands, for I have an Order from the King, either to bring it or break your Neck: And I am reſolved either to carry back that to him in my hand, or your Hearts Blood on the point of my Sword.</hi> I would have made my eſcape, but he ſet his Sword to my Breaſt, and ſaid, <hi>You must give it me or dye, there<g ref="char:EOLhyphen"/>fore deliver it, or elſe this goes through your Body.</hi>
+            </p>
+            <p>So when I ſaw nothing elſe would do, I put my Hand in my Pocket and gave it him, which he carried immediately to the <hi>King,</hi> and gave him that and all my Letters, which they burnt: And being <hi>all done,</hi> the <hi>King</hi> ſaid, Now his Heart was at eaſe; now how he ſhould be eaſed by the <hi>Devil,</hi> or ſo well ſatisfied with a falſe Joy I cannot tell: But this I know, that it was a very Wicked and Ungodly action, as well in his <hi>Majeſty</hi> as the <hi>Prince of Conde,</hi> and did not a little increaſe the burthen and danger of His <hi>Majeſties</hi> Sins. I ſoon gave an account of this Affair to ſeveral
+<pb n="4" facs="tcp:63629:3"/>
+               <hi>Fathers of our Society,</hi> who promiſed to do their beſt to prevent the afore<g ref="char:EOLhyphen"/>ſaid <hi>Prince</hi> doing ſuch another act; which was accordingly done, for with<g ref="char:EOLhyphen"/>in the ſpace of ſix days after the damned action he was <hi>Poyſoned, and well he deſerved it.</hi> The <hi>King</hi> alſo did ſuffer too, but in another faſhion, for diſcloſing the Deſign to the <hi>Prince,</hi> and hearkning to his Counſel. And many a time ſince, when I have had him at Confeſſion, I have ſhook Hell about his Ears, and made him ſigh, fear, and tremble, before I would give him Abſolution; nay, more than that, I have made him beg for it on his Knees, before I would conſent to Abſolve him. By this, I ſaw that he had ſtill an Inclination to me, and was willing to be under my govern<g ref="char:EOLhyphen"/>ment, ſo I ſet the baſeneſs of the action before him, by telling the whole Story, and how wicked it was; and that it could not be forgiven till he had done ſome good action to ballance that, and expiate the Crime. Whereupon, he at laſt asked me what he muſt do? I told him, that he muſt root out all the <hi>Hereticks</hi> from his Kingdom: So, when he ſaw there was no reſt for him without doing it, he did again give them all into the power of me and our Clergy, under this condition, <hi>That we would not Murder them,</hi> as he had before given orders, but that we ſhould by fair means, or force, Convert them to the <hi>Catholick Religion;</hi> to which end, he gave us his <hi>Dragoons</hi> to be at our Devotion and Service, that we might uſe them as we ſaw convenient, to Convert them to the true Religion. Now when we had got the Commiſſion, we preſently put it in Practice, and what the iſſue of it hath been, you very well know. But now in <hi>England,</hi> the work cannot be done after this manner, as you may perceive by what I have ſaid to you, ſo that I cannot give you better counſel, than to take that courſe in hand wherein we were ſo unhappily prevented; and I doubt not, but that it may have better ſucceſs with you than with us.</p>
+            <p>I would write to you of many other things, but that I fear I have alrea<g ref="char:EOLhyphen"/>dy detained you too long; wherefore I ſhall write no more at preſent, but that I am,</p>
+            <closer>
+               <dateline>
+                  <hi>Paris,</hi> 
+                  <date>
+                     <hi>July</hi> 8th. 1688.</date>
+               </dateline> 
+               <signed>
+                  <hi>Your Friend and Servant,</hi> La Chaiſe.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
